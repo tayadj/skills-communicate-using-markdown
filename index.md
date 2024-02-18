@@ -5,3 +5,13 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ![Image of yogitocat](https://octodex.github.com/images/yogitocat.png)
+
+``` c++
+#include <iostream>
+
+int main() 
+{
+   std::cout << "Hello World!" << std::endl;
+   return 0;
+}
+```
